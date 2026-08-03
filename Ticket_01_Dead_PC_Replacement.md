@@ -16,7 +16,7 @@ I got a ticket where a user says the PC is completely dead and read that the use
 
 ## Investigation
 
-Before I would even think about replacing the desktop, I would ask the user to check whether the cable is firmly connected to the back of the PC and that the switch at the back of the PC where the power supply would be is on, as that can be off sometimes by accident. However, I would not spend any more time than that, as the ticket was set to critical and I have to think about business needs and the impact it will bring if not resolved. I read that with this PC being down, calls are in the queue with no one to take them, and the customer support agent is offline, making this a critical prioritization ticket. I also read up on documentation on how to deploy and image a new desktop for a user before moving on to the resolution.
+Before I would even think about replacing the desktop, I would ask the user to check whether the cable is firmly connected to the back of the PC and that the switch at the back of the PC where the power supply would be is on, as that can be off sometimes by accident. However, I would not spend any more time than that, as the ticket was set to critical and I have to think about business needs and the impact it will bring if not resolved. I read that with this PC being down, calls are in the queue with no one to take them, and the customer support agent is offline, making this a critical prioritization ticket. The user confirmed that the cable is firmly connected to the PC, so I also read up on documentation on how to deploy and image a new desktop for a user before moving on to the resolution.
 
 ![Documentation — deployment methods](Screenshots/Ticket_01/02_Documentation_Server_Imaging_SOP.png)
 
