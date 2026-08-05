@@ -26,6 +26,8 @@ The user did some troubleshooting by pressing the power button a few times and p
 
 I then asked the user to perform a hard reset to see if that would work and told the user that if it didn't work, we would get a replacement, as the user needs the laptop to work for the business, making the issue critical.
 
+![Hard reset — user confirmed](Screenshots/Ticket_10/03_Hard_Reset_User_Confirmed.png)
+
 ---
 
 ## Verification
