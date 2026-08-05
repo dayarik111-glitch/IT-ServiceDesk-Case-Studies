@@ -38,7 +38,7 @@ I then went to reset the password, where I was asked to verify the user's identi
 
 ## Verification
 
-Then the user sent me a message saying the password worked, and he was able to log in and change his password, verifying that the issue was resolved.
+Then the user sent me a message saying the password worked, and they were able to log in and change their password, verifying that the issue was resolved.
 
 ![Temporary password sent — user confirmed](Screenshots/Ticket_03/07_Temporary_Password_User_Confirmed.png)
 
