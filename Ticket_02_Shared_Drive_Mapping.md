@@ -16,7 +16,7 @@ The user has trouble accessing a file from the shared drive and sees a message s
 
 ## Investigation
 
-I reassured the user that I was working on it and remotely accessed the user's computer to verify a couple of things.
+I reassured the user that I was working on it and remotely accessed the user's computer to verify a couple of things. I went to the Knowledge Base to find out all of the map drives location to ensure I know how to connect the user to the correct shared files. Once I did that, I ensure to gather all the information needed to be accurate before implementing the resolution and I then went to access the user device remotely using Remote Desktop Protocol.
 
 ![Knowledge base — file server documentation](Screenshots/Ticket_02/02_Knowledge_Base_File_Server_Documentation.png)
 
