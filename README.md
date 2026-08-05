@@ -18,16 +18,16 @@ I put this together to show how I actually troubleshoot, instead of just listing
 
 | # | Case Study | Incident | Priority |
 |---|---|---|---|
-| 01 | [Dead PC Replacement](Ticket_01_Dead_PC_Replacement.md) | INC0012871 | Critical |
-| 02 | [Shared Drive Mapping](Ticket_02_Shared_Drive_Mapping.md) | INC0012847 | High |
-| 03 | [Password Reset](Ticket_03_Password_Reset.md) | INC0012855 | High |
-| 04 | [Floor Network Outage](Ticket_04_Floor_Network_Outage.md) | INC0012858 | Critical |
-| 05 | [New User Provisioning](Ticket_05_New_User_Provisioning.md) | INC0012853 | Medium |
-| 06 | [Print Server Issue](Ticket_06_Print_Server_Issue.md) | INC0012870 | High |
-| 07 | [Time Zone Correction](Ticket_07_Time_Zone_Correction.md) | INC0012865 | High |
-| 08 | [AD Group Membership](Ticket_08_AD_Group_Membership.md) | INC0012860 | Medium |
-| 09 | [Graphics Driver Update](Ticket_09_Graphics_Driver_Update.md) | INC0012862 | Medium |
-| 10 | [Laptop Hard Reset](Ticket_10_Laptop_Hard_Reset.md) | INC920541 | Critical |
+| 01 | [Dead PC Replacement](Tickets/Ticket_01_Dead_PC_Replacement.md) | INC0012871 | Critical |
+| 02 | [Shared Drive Mapping](Tickets/Ticket_02_Shared_Drive_Mapping.md) | INC0012847 | High |
+| 03 | [Password Reset](Tickets/Ticket_03_Password_Reset.md) | INC0012855 | High |
+| 04 | [Floor Network Outage](Tickets/Ticket_04_Floor_Network_Outage.md) | INC0012858 | Critical |
+| 05 | [New User Provisioning](Tickets/Ticket_05_New_User_Provisioning.md) | INC0012853 | Medium |
+| 06 | [Print Server Issue](Tickets/Ticket_06_Print_Server_Issue.md) | INC0012870 | High |
+| 07 | [Time Zone Correction](Tickets/Ticket_07_Time_Zone_Correction.md) | INC0012865 | High |
+| 08 | [AD Group Membership](Tickets/Ticket_08_AD_Group_Membership.md) | INC0012860 | Medium |
+| 09 | [Graphics Driver Update](Tickets/Ticket_09_Graphics_Driver_Update.md) | INC0012862 | Medium |
+| 10 | [Laptop Hard Reset](Tickets/Ticket_10_Laptop_Hard_Reset.md) | INC920541 | Critical |
 
 Every case study follows the same structure: **Overview → Investigation → Resolution → Verification**, with the screenshots placed under the section they support.
 
