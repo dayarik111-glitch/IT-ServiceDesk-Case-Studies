@@ -11,7 +11,7 @@
 
 HR wants to add a new employee so they can access the company network when they start on Monday at 9 AM.
 
-![Ticket overview](Screenshots/Ticket_05/01_Ticket_Overview.png)
+![Ticket overview](../Screenshots/Ticket_05/01_Ticket_Overview.png)
 
 ---
 
@@ -19,7 +19,7 @@ HR wants to add a new employee so they can access the company network when they 
 
 The employee details were given on the ticket, and I went into Active Directory and found what information is needed to correctly add a new user into the Active Direcotry.
 
-![Create New AD User](Screenshots/Ticket_05/02_Create_New_AD_User_Dialog.png)
+![Create New AD User](../Screenshots/Ticket_05/02_Create_New_AD_User_Dialog.png)
 
 ---
 
@@ -27,11 +27,11 @@ The employee details were given on the ticket, and I went into Active Directory 
 
 Using the information from the ticket, I entered the new employee's username, full name, email, department, and job title. After that, I ensured all additional requests were followed by adding them to the groups requested on the ticket and ensuring that the account is secure and accurate before deploying and adding it to Active Directory.
 
-![New user details entered](Screenshots/Ticket_05/03_New_User_Details_Entered.png)
+![New user details entered](../Screenshots/Ticket_05/03_New_User_Details_Entered.png)
 
-![Group memberships](Screenshots/Ticket_05/04_Group_Memberships_Team_Chat.png)
+![Group memberships](../Screenshots/Ticket_05/04_Group_Memberships_Team_Chat.png)
 
-![Adding the requested groups](Screenshots/Ticket_05/05_Adding_Requested_Groups.png)
+![Adding the requested groups](../Screenshots/Ticket_05/05_Adding_Requested_Groups.png)
 
 ---
 
@@ -39,7 +39,7 @@ Using the information from the ticket, I entered the new employee's username, fu
 
 Checked that the user is added to the correct group and that it matches the ticket request before closing the ticket.
 
-![All requested groups added](Screenshots/Ticket_05/06_All_Groups_Added.png)
+![All requested groups added](../Screenshots/Ticket_05/06_All_Groups_Added.png)
 
 ---
 
