@@ -18,8 +18,6 @@ The user's clock on their computer was showing the wrong time, causing them to m
 
 I reassured the user that I was working on it and first checked whether the user had done any troubleshooting. The user noticed that the time zone was set to Eastern instead of the user's time zone, which is Central. The user also restarted their computer, and no change appeared to happen.
 
-![Date & Time settings — Eastern](Screenshots/Ticket_07/03_Date_Time_Settings_Eastern.png)
-
 ---
 
 ## Resolution
