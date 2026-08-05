@@ -10,7 +10,7 @@
 
 I got a ticket where a user says the PC is completely dead and read that the user already tried to press the button several times, checked the wall outlet to see if it was providing power, which it was, and saw that there is no beep, no fans or lights turning on when pressing the button, which are all signs of PC being dead.
 
-![Incident ticket overview](Screenshots/Ticket_01/01_Incident_Ticket_Overview.png)
+![Incident ticket overview](../Screenshots/Ticket_01/01_Incident_Ticket_Overview.png)
 
 ---
 
