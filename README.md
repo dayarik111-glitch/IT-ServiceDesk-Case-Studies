@@ -6,7 +6,7 @@
 
 ## Repository Overview
 
-This repository is a collection of Help Desk tickets I completed in ServiceDesk Simulator. Each one is written up as a case study that walks through the incident, how I investigated it, what I did to fix it, and how I confirmed it was actually resolved. I wrote the summaries myself right after finishing each ticket, and I took screenshots along the way so the write-ups can be followed step by step. Every case study follows the same workflow: Overview → Investigation → Resolution → Verification, documenting both the troubleshooting process and the final outcome
+This repository is a collection of Help Desk tickets I completed in ServiceDesk Simulator. Each one is written up as a case study that walks through the incident, how I investigated it, what I did to fix it, and how I confirmed it was actually resolved. Every case study follows the same workflow: Overview → Investigation → Resolution → Verification, documenting both the troubleshooting process and the final outcome. Supporting screenshots are included throughout each write-up to show the investigation and resolution process.
 
 ## Purpose
 
