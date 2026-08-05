@@ -30,6 +30,8 @@ With that information, I accessed the user's computer remotely and went into the
 
 ![Team Chat — user update](Screenshots/Ticket_07/04_Team_Chat_User_Update.png)
 
+![Time zone updated — user confirmed](Screenshots/Ticket_07/05_Timezone_Updated_User_Confirmed.png)
+
 ---
 
 ## Verification
