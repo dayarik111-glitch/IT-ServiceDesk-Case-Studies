@@ -9,7 +9,7 @@
 
 ## Overview
 
-A manager requested that an employee have access to a different department because they wanted to do a department transfer. The manager requested that this employee have IT infrastructure tool access and remove the other department the user is transferring from, which is the engineering department.
+A manager requested that an employee have access to a different department because they wanted to do a department transfer. The manager requested that this employee have IT Infrastructure tool access and remove the other department the user is transferring from, which is the Engineering department.
 
 ![Ticket overview](Screenshots/Ticket_08/01_Ticket_Overview.png)
 
