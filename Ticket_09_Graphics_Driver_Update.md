@@ -28,7 +28,7 @@ The user troubleshot the issue by checking all the cables to confirm they were p
 
 ## Resolution
 
-I updated them promptly and then restarted the computer once they were completed.
+I updated the drivers promptly and then restarted the computer once the updates were completed.
 
 ![Updates installed — restart required](Screenshots/Ticket_09/05_Updates_Installed_Restart_Required.png)
 
