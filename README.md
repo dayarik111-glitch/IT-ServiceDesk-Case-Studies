@@ -117,4 +117,4 @@ This portfolio was completed using **ServiceDesk Simulator**, a Help Desk traini
 
 The tickets, users, incident numbers, devices, and infrastructure shown here are simulated. None of these incidents occurred in a production environment, and none of this represents work performed for an employer or client. The screenshots are from the simulator.
 
-What is real is the troubleshooting process and the reasoning in each write-up, which is my own writing.
+What is real is the troubleshooting process and the reasoning in each write-up. The writing is my own.
