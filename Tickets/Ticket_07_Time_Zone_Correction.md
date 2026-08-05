@@ -10,7 +10,7 @@
 
 The user's clock on their computer was showing the wrong time, causing them to miss an important meeting because of incorrect time zones. The user needs it resolved, as they have three meetings this afternoon and need to ensure that the time is correct so they can be there on time.
 
-![Ticket overview](Screenshots/Ticket_07/01_Ticket_Overview.png)
+![Ticket overview](../Screenshots/Ticket_07/01_Ticket_Overview.png)
 
 ---
 
@@ -24,13 +24,13 @@ I reassured the user that I was working on it and first checked whether the user
 
 With that information, I accessed the user's computer remotely and went into the user's OS settings. From there, I went into date and time, changed the time zone from Eastern time to Central time, and synced their whole computer to match the time.
 
-![Remote Desktop — computer search](Screenshots/Ticket_07/02_Remote_Desktop_Search.png)
+![Remote Desktop — computer search](../Screenshots/Ticket_07/02_Remote_Desktop_Search.png)
 
-![Date & Time settings — Eastern](Screenshots/Ticket_07/03_Date_Time_Settings_Eastern.png)
+![Date & Time settings — Eastern](../Screenshots/Ticket_07/03_Date_Time_Settings_Eastern.png)
 
-![Team Chat — user update](Screenshots/Ticket_07/04_Team_Chat_User_Update.png)
+![Team Chat — user update](../Screenshots/Ticket_07/04_Team_Chat_User_Update.png)
 
-![Time zone updated — user confirmed](Screenshots/Ticket_07/05_Timezone_Updated_User_Confirmed.png)
+![Time zone updated — user confirmed](../Screenshots/Ticket_07/05_Timezone_Updated_User_Confirmed.png)
 
 ---
 
@@ -38,7 +38,7 @@ With that information, I accessed the user's computer remotely and went into the
 
 After that, I eased the user's frustration as they messaged me saying they were frustrated about missing meetings, and I asked the user to verify if the time was correct. The user said that the time is now correct and the issue was resolved.
 
-![Time zone updated — user confirmed](Screenshots/Ticket_07/05_Timezone_Updated_User_Confirmed.png)
+![Time zone updated — user confirmed](../Screenshots/Ticket_07/05_Timezone_Updated_User_Confirmed.png)
 
 ---
 
