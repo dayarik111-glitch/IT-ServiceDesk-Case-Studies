@@ -10,7 +10,7 @@ This repository is a collection of Help Desk tickets I completed in ServiceDesk 
 
 ## Purpose
 
-I put this together to show how I actually troubleshoot, instead of just listing skills on a resume. Anyone reading it can follow my thinking on each ticket and what I checked first, what I ruled out and why, and how I decided what to do next. Each case study also includes screenshots documenting the overview, investigation, resolution, and verification process.
+I put this together to show how I actually troubleshoot, instead of just listing skills on a resume. Anyone reading it can follow my thinking on each ticket and what I checked first, what I ruled out and why, and how I decided what to do next. Each case study also includes screenshots documenting the overview, investigation, resolution, and verification process. I kept the write-ups conversational on purpose, because that is how I would explain a problem out loud.
 
 ---
 
