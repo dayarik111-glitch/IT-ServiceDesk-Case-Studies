@@ -16,7 +16,7 @@ User states an entire floor doesn't have access to the internet currently, makin
 
 ## Investigation
 
-I reassured the user that I am working on the issue as quickly as possible and then went into the server room to check on the devices.
+I reassured the user that I am working on the issue as quickly as possible. I notice that the user didn't give any information of them troubleshooting the issue themselves, so I took that into consideration and then went into the server room to check on the devices. 
 
 ![Server Room — Floor 3 switch error](Screenshots/Ticket_04/02_Server_Room_Floor_3_Switch_Error.png)
 
