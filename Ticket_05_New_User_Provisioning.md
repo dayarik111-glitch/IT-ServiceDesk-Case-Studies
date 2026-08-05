@@ -17,7 +17,7 @@ HR wants to add a new employee so they can access the company network when they 
 
 ## Investigation
 
-The employee details were given on the ticket, and I went into Active Directory and added a new user.
+The employee details were given on the ticket, and I went into Active Directory and found what information is needed to correctly add a new user into the Active Direcotry.
 
 ![Create New AD User](Screenshots/Ticket_05/02_Create_New_AD_User_Dialog.png)
 
