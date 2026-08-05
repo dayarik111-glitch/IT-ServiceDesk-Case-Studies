@@ -8,7 +8,7 @@
 
 ## Overview
 
-The printer in the entire office was not working, and the legal team needed to print important documents to do their work.
+The printers in the entire office was not working, and the legal team needed to print important documents to do their work.
 
 ![Ticket overview](Screenshots/Ticket_06/01_Ticket_Overview.png)
 
