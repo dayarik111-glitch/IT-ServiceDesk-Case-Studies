@@ -1,4 +1,4 @@
-# IT Service Desk: Ticket Case Studies
+# IT Service Desk — Ticket Case Studies
 
 *All tickets in this repository were completed in ServiceDesk Simulator, a training environment. These are not production incidents.*
 
