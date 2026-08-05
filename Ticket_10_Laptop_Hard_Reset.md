@@ -32,7 +32,7 @@ I then asked the user to perform a hard reset to see if that would work and told
 
 ## Verification
 
-The hard reset worked, resolving the issue.
+The user confirmed that the hard reset worked, resolving the issue.
 
 ![Hard reset — user confirmed](Screenshots/Ticket_10/03_Hard_Reset_User_Confirmed.png)
 
