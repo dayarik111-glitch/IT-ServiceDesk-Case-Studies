@@ -33,6 +33,12 @@ Using the information from the ticket, I entered the new employee's username, fu
 
 ![Adding the requested groups](Screenshots/Ticket_05/05_Adding_Requested_Groups.png)
 
+---
+
+## Verification
+
+Checked that the user is added to the correct group and that it matches the ticket request before closing the ticket.
+
 ![All requested groups added](Screenshots/Ticket_05/06_All_Groups_Added.png)
 
 ---
