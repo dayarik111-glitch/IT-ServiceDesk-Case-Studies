@@ -15,9 +15,17 @@ A manager requested that an employee have access to a different department becau
 
 ---
 
+## Investigation
+
+I searched for the user given the provided information in the ticket and confirmed that the exisitng group matches the ticket and that all the information provided macthes the user before changing the user's group.
+
+![Adding the IT Infrastructure group](Screenshots/Ticket_08/03_Adding_IT_Infrastructure_Group.png)
+
+---
+
 ## Resolution
 
-I went into Active Directory, searched for the user with the given information in the ticket, went to groups, added the new IT infrastructure group, and removed the engineering group after adding the new group.
+After confirming that the current information of the user is correct, I went to groups, added the new IT Infrastructure group, and removed the Engineering group after adding the new group.
 
 ![Directory — user search](Screenshots/Ticket_08/02_Directory_User_Search.png)
 
