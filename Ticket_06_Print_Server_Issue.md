@@ -16,7 +16,7 @@ The printer in the entire office was not working, and the legal team needed to p
 
 ## Investigation
 
-I went into the server room and checked the print server, where I found its status was degraded and it was using almost all of its CPU and memory.
+I went into the server room and checked the print server, where I found its status was degraded and it was using almost all of its CPU and memory. I also updated the user that I am looking into the ticket.
 
 ![Team Chat — user update](Screenshots/Ticket_06/02_Team_Chat_User_Update.png)
 
